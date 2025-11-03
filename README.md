@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Shubhanga V.M 👋
 
-<!--
-**Shubhanga-dev/Shubhanga-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ✈️ Future Aerospace Engineer | 💻 AI & Python Learner
 
-Here are some ideas to get you started:
+- 🎓 Diploma in Aeronautical Engineering
+- 🔥 Learning Python daily
+- 🇩🇪 Future goal: Master's in Aerospace Engineering in Germany
+- 🌱 Currently learning: Git, GitHub, Python fundamentals
+- 🚀 Dream: Work in aviation & space industry
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack (Learning)
+- Python
+- Linux basics
+- Git & GitHub
