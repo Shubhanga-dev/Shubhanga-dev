@@ -53,8 +53,7 @@ Currently learning:
 
 ## 🌱 Connect With Me
 
-📫 Email: *(Add later)*  
-🔗 LinkedIn: *(Add when created)*  
+📫 Email: vmshubhanga@gmail.com or shubhanga.printplus@gmail.com 
 
 ---
 
